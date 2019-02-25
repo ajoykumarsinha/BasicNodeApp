@@ -2,7 +2,7 @@
 
 # BasicNodeApp
 
-
+## This application is used to connect to MongoDB Atlas 
 
 ## Usage
 
