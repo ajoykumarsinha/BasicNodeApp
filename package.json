@@ -6,7 +6,20 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "express": "3.2.6",
-    "ejs": "*"
+    "express": "latest",
+    "connect": "latest",
+    "serve-favicon" : "latest",
+    "ejs": "latest",
+    "body-parser": "latest",
+    "mongoose": "latest",
+    "multer": "latest",
+    "mongoose-sequence": "latest",
+    "cors": "latest",
+    "gridfs-stream": "latest",
+    "codedeploy-scripts": "latest",
+    "http": "latest",
+    "s3-uploader": "latest",
+    "imagemagick": "latest",
+    "multer-s3": "latest"
   }
 }
