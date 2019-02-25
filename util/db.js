@@ -12,7 +12,7 @@ const options = {
 
 mongoose.connect(dbURI, options).then(
   () => {
-    console.log("Database connection established!");
+    console.log("Database connection established new change !");
   },
   err => {
     console.log("Error connecting Database instance due to following error: ", err);
